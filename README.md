@@ -1,2 +1,1 @@
-# autoscalinggroupproject
-The goal of this project is to create a web server that can scale up and down to meet website traffic demands.
+This project demonstrates how to set up an AWS Auto Scaling Group with EC2 instances that automatically scale based on traffic demand. This setup ensures efficient resource utilization and cost savings. Documenting this project in my portfolio showcases my ability to design and implement scalable architectures using AWS.
